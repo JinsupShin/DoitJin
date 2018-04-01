@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoitJin.iml" filepath="$PROJECT_DIR$/DoitJin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doitmission-07/doitmission-07.iml" filepath="$PROJECT_DIR$/doitmission-07/doitmission-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleactionbar01/sampleactionbar01.iml" filepath="$PROJECT_DIR$/sampleactionbar01/sampleactionbar01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleactionbar02/sampleactionbar02.iml" filepath="$PROJECT_DIR$/sampleactionbar02/sampleactionbar02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplebitmapwidget/samplebitmapwidget.iml" filepath="$PROJECT_DIR$/samplebitmapwidget/samplebitmapwidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplebuttonanimation/samplebuttonanimation.iml" filepath="$PROJECT_DIR$/samplebuttonanimation/samplebuttonanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplecallintent/samplecallintent.iml" filepath="$PROJECT_DIR$/samplecallintent/samplecallintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplefragment/samplefragment.iml" filepath="$PROJECT_DIR$/samplefragment/samplefragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplefragment2/samplefragment2.iml" filepath="$PROJECT_DIR$/samplefragment2/samplefragment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleintent/sampleintent.iml" filepath="$PROJECT_DIR$/sampleintent/sampleintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplekeypad/samplekeypad.iml" filepath="$PROJECT_DIR$/samplekeypad/samplekeypad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplelayoutinflater/samplelayoutinflater.iml" filepath="$PROJECT_DIR$/samplelayoutinflater/samplelayoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplelifecycle/samplelifecycle.iml" filepath="$PROJECT_DIR$/samplelifecycle/samplelifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplelistview/samplelistview.iml" filepath="$PROJECT_DIR$/samplelistview/samplelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleninepatch/sampleninepatch.iml" filepath="$PROJECT_DIR$/sampleninepatch/sampleninepatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleoptionmenu/sampleoptionmenu.iml" filepath="$PROJECT_DIR$/sampleoptionmenu/sampleoptionmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleparcelable/sampleparcelable.iml" filepath="$PROJECT_DIR$/sampleparcelable/sampleparcelable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplepdfview/samplepdfview.iml" filepath="$PROJECT_DIR$/samplepdfview/samplepdfview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleprogress/sampleprogress.iml" filepath="$PROJECT_DIR$/sampleprogress/sampleprogress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleservice/sampleservice.iml" filepath="$PROJECT_DIR$/sampleservice/sampleservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampletab/sampletab.iml" filepath="$PROJECT_DIR$/sampletab/sampletab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleweb/sampleweb.iml" filepath="$PROJECT_DIR$/sampleweb/sampleweb.iml" />
+    </modules>
+  </component>
+</project>
